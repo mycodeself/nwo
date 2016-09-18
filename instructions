@@ -1,0 +1,2 @@
+Para compilar tener instalado CPCtelera, obtener un cfg/ de otro proyecto
+cambiar el nombre del proyecto en el archivo cfg/build_config.mk y basta con hacer make.
